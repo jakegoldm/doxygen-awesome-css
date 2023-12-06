@@ -1,5 +1,5 @@
 {
-  "name": "@jothepro/doxygen-awesome-css",
+  "name": "jakegoldm/doxygen-awesome-css",
   "version": "2.3.1",
   "description": "Custom CSS theme for doxygen html-documentation with lots of customization parameters.",
   "main": "",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jothepro/doxygen-awesome-css.git"
+    "url": "https://github.com/jakegoldm/doxygen-awesome-css.git"
   },
   "homepage": "https://jothepro.github.io/doxygen-awesome-css/",
   "bugs": {
